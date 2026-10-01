@@ -1,5 +1,3 @@
-<h1 align="center">Oleg Potapov</h1>
-
 <p align="center">
   <b>Senior Backend Engineer · Go</b><br/>
   Event-driven microservices · high-load systems · consistency in distributed systems
