@@ -5,6 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oleg-potapov-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-oleg--potapov--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://t.me/w0rkerpoo1"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@w0rkerpoo1-26A5E4?style=flat-square&logo=telegram&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/Yerevan%2C%20Armenia-remote%20%2F%20hybrid-2ea44f?style=flat-square">
   <img alt="Experience" src="https://img.shields.io/badge/backend-3.5%2B%20years-00ADD8?style=flat-square&logo=go&logoColor=white">
 </p>
@@ -52,4 +53,4 @@ I build backend systems in Go that move money, people and events between dozens 
 
 ## Contact
 
-The best way to reach me is [LinkedIn](https://www.linkedin.com/in/oleg-potapov-dev/).
+Reach me on [Telegram](https://t.me/w0rkerpoo1) or [LinkedIn](https://www.linkedin.com/in/oleg-potapov-dev/).
