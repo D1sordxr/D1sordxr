@@ -48,9 +48,9 @@ I build backend systems in Go that move money, people and events between dozens 
   <img src="https://skillicons.dev/icons?i=go,postgres,kafka,redis,rabbitmq,kubernetes,docker,grafana,githubactions,linux,python,ts,react&perline=13" alt="Go, PostgreSQL, Kafka, Redis, RabbitMQ, Kubernetes, Docker, Grafana, GitHub Actions, Linux, Python, TypeScript, React" />
 </p>
 
-**Core:** Go · PostgreSQL · Apache Kafka · Redis · gRPC / Protobuf
-**Infrastructure:** Kubernetes · Docker · CI/CD · Grafana · distributed tracing · MinIO / S3 · RabbitMQ
-**Practices:** DDD & Clean Architecture · Transactional Outbox · Saga · CQRS · idempotency · contract-first APIs · code generation
+- **Core:** Go · PostgreSQL · Apache Kafka · Redis · gRPC / Protobuf
+- **Infrastructure:** Kubernetes · Docker · CI/CD · Grafana · distributed tracing · MinIO / S3 · RabbitMQ
+- **Practices:** DDD & Clean Architecture · Transactional Outbox · Saga · CQRS · idempotency · contract-first APIs · code generation
 
 ## Contact
 
