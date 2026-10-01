@@ -18,7 +18,7 @@ I build backend systems in Go that move money, people and events between dozens 
 - **High load** — services sustaining tens of thousands of RPS at 99.9% uptime
 - **End-to-end ownership** — from requirements with business stakeholders to Kubernetes, Grafana dashboards and alerting
 - **Team** — coordinated a team of 4, interviewed Go candidates, mentored interns
-- **LLM / AI integrations** in backend services
+- **AI integrations** — self-hosted LLMs (Ollama on Kubernetes) wired into production Go services
 
 ## Production work
 
@@ -26,7 +26,7 @@ I build backend systems in Go that move money, people and events between dozens 
 
 | | |
 |---|---|
-| **M.Video**<br/><sub>2025 – 2026</sub> | Built the internal **HR platform from scratch** (Go, PostgreSQL, Kafka) — the employee source of truth for a 50,000-person retailer, absorbing ~11k HR events/month and serving **20+ downstream services** over gRPC and HTTP. Transactional Outbox + Redis-backed idempotent consumers from day one: no dual writes, no duplicates under retries. Rebuilt the org-structure hierarchy from Kafka event streams during a live migration off the legacy source. Hiring backend for **20 warehouses / ~1,000 hires a month**. |
+| **M.Video**<br/><sub>2025 – 2026</sub> | Built the internal **HR platform from scratch** (Go, PostgreSQL, Kafka) — the employee source of truth for a 50,000-person retailer, absorbing ~11k HR events/month and serving **20+ downstream services** over gRPC and HTTP. Transactional Outbox + Redis-backed idempotent consumers from day one: no dual writes, no duplicates under retries. Rebuilt the org-structure hierarchy from Kafka event streams during a live migration off the legacy source. Hiring backend for **20 warehouses / ~1,000 hires a month**. Built an LLM-powered feedback assistant into the platform API on a self-hosted model. |
 | **Wildberries Tech**<br/><sub>2024 – 2025</sub> | End-to-end **payroll platform**: source-data collection → accruals and gross-to-net → payments via payment gateways and accounting. Designed a **high-load accruals analytics system** — tens of thousands of RPS at peak, 99.9% uptime, became the primary tool in its area. Split a distributed monolith into bounded contexts and moved business-critical service-to-service traffic onto Kafka. |
 | **Tutu**<br/><sub>2023 – 2024</sub> | Travel platform: new modules end-to-end, integrations with **10+ external systems**, customer booking notifications, automated testing in CI/CD. |
 
